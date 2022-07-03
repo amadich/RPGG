@@ -1,0 +1,975 @@
+{
+  "frames": {
+    "JK_P_Sword__Attack_003.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 448,
+        "h": 415
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 13,
+        "w": 448,
+        "h": 415
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Attack_004.png": {
+      "frame": {
+        "x": 0,
+        "y": 415,
+        "w": 436,
+        "h": 411
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 53,
+        "y": 16,
+        "w": 436,
+        "h": 411
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Hurt_003.png": {
+      "frame": {
+        "x": 448,
+        "y": 0,
+        "w": 428,
+        "h": 407
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 17,
+        "w": 428,
+        "h": 407
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Run_007.png": {
+      "frame": {
+        "x": 448,
+        "y": 407,
+        "w": 424,
+        "h": 414
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 11,
+        "w": 424,
+        "h": 414
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Attack_005.png": {
+      "frame": {
+        "x": 0,
+        "y": 826,
+        "w": 422,
+        "h": 409
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 18,
+        "w": 422,
+        "h": 409
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Run_008.png": {
+      "frame": {
+        "x": 876,
+        "y": 0,
+        "w": 412,
+        "h": 420
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 10,
+        "w": 412,
+        "h": 420
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Run_003.png": {
+      "frame": {
+        "x": 872,
+        "y": 420,
+        "w": 351,
+        "h": 420
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 10,
+        "w": 351,
+        "h": 420
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Run_009.png": {
+      "frame": {
+        "x": 0,
+        "y": 1235,
+        "w": 400,
+        "h": 418
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 12,
+        "w": 400,
+        "h": 418
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Run_004.png": {
+      "frame": {
+        "x": 400,
+        "y": 1235,
+        "w": 368,
+        "h": 418
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 12,
+        "w": 368,
+        "h": 418
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Hurt_004.png": {
+      "frame": {
+        "x": 422,
+        "y": 826,
+        "w": 418,
+        "h": 407
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 17,
+        "w": 418,
+        "h": 407
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Hurt_002.png": {
+      "frame": {
+        "x": 768,
+        "y": 1233,
+        "w": 415,
+        "h": 407
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 17,
+        "w": 415,
+        "h": 407
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Run_002.png": {
+      "frame": {
+        "x": 1288,
+        "y": 0,
+        "w": 333,
+        "h": 414
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 11,
+        "w": 333,
+        "h": 414
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Run_000.png": {
+      "frame": {
+        "x": 1223,
+        "y": 420,
+        "w": 391,
+        "h": 414
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 16,
+        "w": 391,
+        "h": 414
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Run_005.png": {
+      "frame": {
+        "x": 1223,
+        "y": 834,
+        "w": 379,
+        "h": 414
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 16,
+        "w": 379,
+        "h": 414
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Run_001.png": {
+      "frame": {
+        "x": 1621,
+        "y": 0,
+        "w": 339,
+        "h": 413
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 13,
+        "w": 339,
+        "h": 413
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Run_006.png": {
+      "frame": {
+        "x": 0,
+        "y": 1653,
+        "w": 410,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 13,
+        "w": 410,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Attack_002.png": {
+      "frame": {
+        "x": 410,
+        "y": 1653,
+        "w": 365,
+        "h": 410
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 19,
+        "w": 365,
+        "h": 410
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Hurt_005.png": {
+      "frame": {
+        "x": 775,
+        "y": 1640,
+        "w": 408,
+        "h": 407
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 17,
+        "w": 408,
+        "h": 407
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Attack_001.png": {
+      "frame": {
+        "x": 1614,
+        "y": 414,
+        "w": 343,
+        "h": 408
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 21,
+        "w": 343,
+        "h": 408
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Attack_006.png": {
+      "frame": {
+        "x": 1183,
+        "y": 1248,
+        "w": 404,
+        "h": 407
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 21,
+        "w": 404,
+        "h": 407
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Hurt_001.png": {
+      "frame": {
+        "x": 1183,
+        "y": 1655,
+        "w": 401,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 18,
+        "w": 401,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Hurt_006.png": {
+      "frame": {
+        "x": 1960,
+        "y": 0,
+        "w": 397,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 19,
+        "w": 397,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Idle_006.png": {
+      "frame": {
+        "x": 1960,
+        "y": 405,
+        "w": 392,
+        "h": 404
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 2,
+        "w": 392,
+        "h": 404
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Idle_007.png": {
+      "frame": {
+        "x": 1957,
+        "y": 809,
+        "w": 396,
+        "h": 404
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 396,
+        "h": 404
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Idle_008.png": {
+      "frame": {
+        "x": 1584,
+        "y": 1655,
+        "w": 394,
+        "h": 404
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 394,
+        "h": 404
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Idle_004.png": {
+      "frame": {
+        "x": 1587,
+        "y": 1248,
+        "w": 384,
+        "h": 404
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 2,
+        "w": 384,
+        "h": 404
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Idle_001.png": {
+      "frame": {
+        "x": 1971,
+        "y": 1213,
+        "w": 384,
+        "h": 404
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 2,
+        "w": 384,
+        "h": 404
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Idle_005.png": {
+      "frame": {
+        "x": 0,
+        "y": 2065,
+        "w": 387,
+        "h": 404
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 2,
+        "w": 387,
+        "h": 404
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Idle_009.png": {
+      "frame": {
+        "x": 387,
+        "y": 2065,
+        "w": 390,
+        "h": 404
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 2,
+        "w": 390,
+        "h": 404
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Hurt_007.png": {
+      "frame": {
+        "x": 777,
+        "y": 2061,
+        "w": 387,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 21,
+        "w": 387,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Idle_000.png": {
+      "frame": {
+        "x": 1164,
+        "y": 2061,
+        "w": 387,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 3,
+        "w": 387,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Attack_000.png": {
+      "frame": {
+        "x": 1551,
+        "y": 2061,
+        "w": 386,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 26,
+        "w": 386,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Hurt_000.png": {
+      "frame": {
+        "x": 1937,
+        "y": 2059,
+        "w": 387,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 21,
+        "w": 387,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Idle_003.png": {
+      "frame": {
+        "x": 0,
+        "y": 2469,
+        "w": 380,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 3,
+        "w": 380,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Idle_002.png": {
+      "frame": {
+        "x": 380,
+        "y": 2469,
+        "w": 380,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 3,
+        "w": 380,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Attack_007.png": {
+      "frame": {
+        "x": 1551,
+        "y": 2061,
+        "w": 386,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 26,
+        "w": 386,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Attack_008.png": {
+      "frame": {
+        "x": 1551,
+        "y": 2061,
+        "w": 386,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 26,
+        "w": 386,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Attack_009.png": {
+      "frame": {
+        "x": 1551,
+        "y": 2061,
+        "w": 386,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 26,
+        "w": 386,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Hurt_008.png": {
+      "frame": {
+        "x": 777,
+        "y": 2061,
+        "w": 387,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 21,
+        "w": 387,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JK_P_Sword__Hurt_009.png": {
+      "frame": {
+        "x": 777,
+        "y": 2061,
+        "w": 387,
+        "h": 403
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 21,
+        "w": 387,
+        "h": 403
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "player.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2357,
+      "h": 2872
+    },
+    "scale": 1
+  }
+}

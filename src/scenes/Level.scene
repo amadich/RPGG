@@ -1,0 +1,539 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level"
+    },
+    "displayList": [
+        {
+            "type": "TilemapLayer",
+            "id": "fd8d6764-d0cc-4ec8-8087-f60ffd34d020",
+            "label": "back_1",
+            "scope": "CLASS",
+            "components": [],
+            "tilemapId": "9259a334-70a8-43eb-8c5c-2cbdb4ff5695",
+            "layerName": "back",
+            "tilesets": [
+                "RTS_medieval@2"
+            ]
+        },
+        {
+            "type": "Ellipse",
+            "id": "edf5c88e-daf0-4c49-b506-7674723f2254",
+            "label": "zone_map",
+            "scope": "CLASS",
+            "components": [],
+            "x": 486,
+            "y": 347,
+            "scaleX": 8,
+            "scaleY": 8,
+            "visible": false,
+            "alpha": 0.05,
+            "isFilled": true,
+            "fillColor": "#25f102",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Sprite",
+            "id": "231b4f45-ad09-4016-b0dd-951e95bc3b88",
+            "label": "medievalEnvironment_03",
+            "components": [],
+            "texture": {
+                "key": "medievalEnvironment_03"
+            },
+            "x": 644,
+            "y": 455,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        },
+        {
+            "type": "Sprite",
+            "id": "8878b53e-9f01-4248-a9a9-a0d560b59ae6",
+            "label": "medievalEnvironment_01",
+            "components": [],
+            "texture": {
+                "key": "medievalEnvironment_01"
+            },
+            "x": 87,
+            "y": 491,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        },
+        {
+            "type": "Sprite",
+            "id": "cb9087b3-90bd-4a73-b057-74833f74863e",
+            "label": "medievalEnvironment",
+            "components": [],
+            "texture": {
+                "key": "medievalEnvironment_03"
+            },
+            "x": 84,
+            "y": 138,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        },
+        {
+            "type": "Sprite",
+            "id": "b9a7ac61-9a76-4843-b5c7-76ed8daa558d",
+            "label": "medievalEnvironment_1",
+            "components": [],
+            "texture": {
+                "key": "medievalEnvironment_01"
+            },
+            "x": 121,
+            "y": 180
+        },
+        {
+            "type": "Sprite",
+            "id": "fdbf017a-8d3f-48c6-a3f5-ecfae622bf98",
+            "label": "medievalEnvironment_2",
+            "components": [],
+            "texture": {
+                "key": "medievalEnvironment_01"
+            },
+            "x": 674,
+            "y": 502
+        },
+        {
+            "type": "Sprite",
+            "id": "38c00c12-dc19-4a51-b490-94120f682848",
+            "label": "medievalEnvironment_3",
+            "components": [],
+            "texture": {
+                "key": "medievalEnvironment_03"
+            },
+            "x": 721,
+            "y": 112,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        },
+        {
+            "type": "Sprite",
+            "id": "9e08b9db-9290-4c79-aa1f-03fc3ba0eb57",
+            "label": "medievalEnvironment_4",
+            "components": [],
+            "texture": {
+                "key": "medievalEnvironment_03"
+            },
+            "x": 239,
+            "y": 263,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        },
+        {
+            "type": "Sprite",
+            "id": "39d76c5c-c4b9-484c-a4ac-3b7a2b6f993a",
+            "label": "medievalEnvironment_5",
+            "components": [],
+            "texture": {
+                "key": "medievalEnvironment_01"
+            },
+            "x": 584,
+            "y": 258,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "86afd28f-04de-437e-b85d-6148a3ed0b31",
+            "label": "tree_1",
+            "scope": "CLASS",
+            "components": [],
+            "visible": false,
+            "tilemapId": "dbc1a801-f0c6-449c-a663-3f3eb9ef3735",
+            "layerName": "tree",
+            "tilesets": [
+                "RTS_medieval@2"
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "88b14c56-3a18-4141-9144-aa3fca700514",
+            "label": "monsterB",
+            "scope": "CLASS",
+            "components": [],
+            "x": 550,
+            "y": 300,
+            "list": [
+                {
+                    "type": "Ellipse",
+                    "id": "6bc809e6-5551-4bc2-90a3-4dd905eaa696",
+                    "label": "zone_monster1",
+                    "scope": "CLASS",
+                    "components": [],
+                    "y": 5,
+                    "alpha": 0.2,
+                    "isFilled": true,
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Ellipse",
+                    "id": "2900a47f-e3c3-4404-8fd0-2f1323280b84",
+                    "label": "shade_2",
+                    "components": [],
+                    "x": 4,
+                    "y": 23,
+                    "scaleX": 0.5,
+                    "scaleY": 0.15,
+                    "alpha": 0.5,
+                    "isFilled": true,
+                    "fillColor": "#222",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Sprite",
+                    "id": "42f22bc1-079a-441f-8434-7f9cafccc5ab",
+                    "label": "monster1",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "goblrn",
+                        "frame": "2D_GOBLIN__Idle_Blinking_000.png"
+                    },
+                    "scaleX": 0.13,
+                    "scaleY": 0.13
+                },
+                {
+                    "type": "Sprite",
+                    "id": "b5aae47b-7123-47d7-97f8-b69d8b742220",
+                    "label": "bubble_m_1",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "vector_style1",
+                        "frame": "emote__.png"
+                    },
+                    "x": 4,
+                    "y": -47,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "8b8af2bd-2c78-4cf1-ab05-794aafcf1d05",
+            "label": "monsterB_1",
+            "scope": "CLASS",
+            "components": [],
+            "x": 473,
+            "y": 252,
+            "list": [
+                {
+                    "type": "Ellipse",
+                    "id": "f794bfc5-38d1-45b6-8135-0975b6764600",
+                    "label": "zone_monster",
+                    "scope": "CLASS",
+                    "components": [],
+                    "y": 5,
+                    "alpha": 0.2,
+                    "isFilled": true,
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Ellipse",
+                    "id": "53c9164b-bc8f-4196-a5a5-ed3c468f6441",
+                    "label": "shade_1",
+                    "components": [],
+                    "x": 1,
+                    "y": 23,
+                    "scaleX": 0.5,
+                    "scaleY": 0.15,
+                    "alpha": 0.5,
+                    "isFilled": true,
+                    "fillColor": "#222",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Sprite",
+                    "id": "dfec0b61-9a8f-4896-88d5-84c46a51ebbf",
+                    "label": "monster",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "goblrn",
+                        "frame": "2D_GOBLIN__Idle_Blinking_000.png"
+                    },
+                    "scaleX": 0.13,
+                    "scaleY": 0.13
+                },
+                {
+                    "type": "Sprite",
+                    "id": "b7183bc2-7871-4442-acaa-b146c950af51",
+                    "label": "bubble_m",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "vector_style1",
+                        "frame": "emote__.png"
+                    },
+                    "x": 5,
+                    "y": -46,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "66ab0ff9-87ef-49cd-887a-e8ec3ed13b76",
+            "label": "user_inerface",
+            "scope": "CLASS",
+            "components": [],
+            "x": 355,
+            "y": 547,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "6fb2eae8-fa68-47f6-b6eb-1656d04271ea",
+                    "label": "b1",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "ui_block"
+                    },
+                    "x": 2
+                },
+                {
+                    "type": "Image",
+                    "id": "512e30e3-1027-4e40-a0fa-ed38351030fd",
+                    "label": "b2",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "ui_block"
+                    },
+                    "x": 60
+                },
+                {
+                    "type": "Image",
+                    "id": "49ffe72f-e186-4650-9e2f-e9a86a726d72",
+                    "label": "b3",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "ui_block"
+                    },
+                    "x": 120
+                },
+                {
+                    "type": "Image",
+                    "id": "9d4a3df2-d9cf-443d-bc21-0323d763dde5",
+                    "label": "b4",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "ui_block"
+                    },
+                    "x": 180
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "4d6c8b04-a717-4247-9e9c-417f5b346bb9",
+                    "label": "select_b",
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 2,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3,
+                    "alpha": 0.2,
+                    "isFilled": true,
+                    "fillColor": "#002ce8",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Image",
+                    "id": "f3084b54-0b03-4139-b3e4-ccc4d8e1f5d7",
+                    "label": "sword01",
+                    "components": [],
+                    "texture": {
+                        "key": "Sword01"
+                    },
+                    "x": 4,
+                    "scaleX": 0.1,
+                    "scaleY": 0.1,
+                    "angle": -90
+                },
+                {
+                    "type": "Image",
+                    "id": "726f7478-5e8f-4564-a060-24a0855215f6",
+                    "label": "gun01",
+                    "components": [],
+                    "texture": {
+                        "key": "Gun01"
+                    },
+                    "x": 61,
+                    "scaleX": 0.07,
+                    "scaleY": 0.1,
+                    "angle": -90
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "9adfab78-93b8-4602-9eb7-5105e52df764",
+            "label": "player",
+            "scope": "CLASS",
+            "components": [
+                "movement"
+            ],
+            "x": 153,
+            "y": 327,
+            "list": [
+                {
+                    "type": "Ellipse",
+                    "id": "611d4893-c3b5-4f6b-ac86-5f8d3a444d6b",
+                    "label": "shade",
+                    "components": [],
+                    "x": -3,
+                    "y": 28,
+                    "scaleX": 0.5,
+                    "scaleY": 0.15,
+                    "alpha": 0.5,
+                    "isFilled": true,
+                    "fillColor": "#222",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Sprite",
+                    "id": "554bed9e-b901-4bb8-9bbb-386272044531",
+                    "label": "character",
+                    "scope": "CLASS",
+                    "components": [
+                        "player_anims"
+                    ],
+                    "texture": {
+                        "key": "player",
+                        "frame": "JK_P_Sword__Idle_000.png"
+                    },
+                    "scaleX": 0.15,
+                    "scaleY": 0.15
+                },
+                {
+                    "type": "Text",
+                    "id": "7f3ce80b-21e8-4754-86de-bd2465dd2665",
+                    "label": "player_name",
+                    "components": [],
+                    "x": -18,
+                    "y": 34,
+                    "text": "Tomi",
+                    "fontFamily": "monospace",
+                    "color": "#ffffffff"
+                },
+                {
+                    "type": "Sprite",
+                    "id": "37336bf4-ccd5-4668-bba7-a22eb0b07e78",
+                    "label": "bubble",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "vector_style1",
+                        "frame": "emote__.png"
+                    },
+                    "x": -4,
+                    "y": -50,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                },
+                {
+                    "type": "Container",
+                    "id": "40649058-b32b-4126-bc26-2afeb9c59888",
+                    "label": "blood",
+                    "components": [],
+                    "x": -153,
+                    "y": -327,
+                    "list": [
+                        {
+                            "type": "Rectangle",
+                            "id": "cccf1ccd-af1c-4936-b857-6a22fa6d8a2c",
+                            "label": "back_blood",
+                            "components": [],
+                            "x": 153,
+                            "y": 381,
+                            "scaleX": 0.5,
+                            "scaleY": 0.05,
+                            "alpha": 0.5,
+                            "isFilled": true,
+                            "fillColor": "#222",
+                            "width": 128,
+                            "height": 128
+                        },
+                        {
+                            "type": "Rectangle",
+                            "id": "bdc49fb4-175b-4401-b683-e87d9b2267cd",
+                            "label": "set_blood",
+                            "scope": "CLASS",
+                            "components": [],
+                            "x": 153,
+                            "y": 381,
+                            "scaleX": 0.5,
+                            "scaleY": 0.03,
+                            "alpha": 0.7,
+                            "isFilled": true,
+                            "fillColor": "#ff0000",
+                            "width": 128,
+                            "height": 128
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "plainObjects": [
+        {
+            "id": "9259a334-70a8-43eb-8c5c-2cbdb4ff5695",
+            "type": "Tilemap",
+            "label": "map",
+            "key": "map",
+            "tilesets": [
+                {
+                    "name": "RTS_medieval@2",
+                    "imageKey": "RTS_medieval@2"
+                }
+            ]
+        },
+        {
+            "id": "dbc1a801-f0c6-449c-a663-3f3eb9ef3735",
+            "type": "Tilemap",
+            "label": "map_1",
+            "key": "map",
+            "tilesets": [
+                {
+                    "name": "RTS_medieval@2",
+                    "imageKey": "RTS_medieval@2"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    },
+    "lists": [
+        {
+            "id": "c8504749-405e-4d82-ba36-b8d014972304",
+            "label": "atree",
+            "objectIds": [
+                "231b4f45-ad09-4016-b0dd-951e95bc3b88",
+                "8878b53e-9f01-4248-a9a9-a0d560b59ae6",
+                "cb9087b3-90bd-4a73-b057-74833f74863e",
+                "b9a7ac61-9a76-4843-b5c7-76ed8daa558d",
+                "fdbf017a-8d3f-48c6-a3f5-ecfae622bf98",
+                "38c00c12-dc19-4a51-b490-94120f682848",
+                "9e08b9db-9290-4c79-aa1f-03fc3ba0eb57",
+                "39d76c5c-c4b9-484c-a4ac-3b7a2b6f993a"
+            ]
+        }
+    ]
+}

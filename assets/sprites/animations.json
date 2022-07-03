@@ -1,0 +1,473 @@
+{
+    "anims": [
+        {
+            "key": "monster1_idle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Idle_Blinking_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Idle_Blinking_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Idle_Blinking_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Idle_Blinking_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Idle_Blinking_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Idle_Blinking_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Idle_Blinking_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Idle_Blinking_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "monster1_run",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Run_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Run_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Run_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Run_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Run_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Run_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Run_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goblrn",
+                    "frame": "2D_GOBLIN__Run_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 16,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_idle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Idle_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Idle_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Idle_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Idle_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Idle_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Idle_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Idle_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Idle_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Idle_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Idle_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_run",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Run_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Run_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Run_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Run_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Run_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Run_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Run_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Run_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Run_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Run_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_att",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Attack_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Attack_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Attack_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Attack_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Attack_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Attack_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Attack_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Attack_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Attack_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Attack_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_damege",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Hurt_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Hurt_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Hurt_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Hurt_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Hurt_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Hurt_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Hurt_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Hurt_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Hurt_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "JK_P_Sword__Hurt_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "msg_wait",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "vector_style1",
+                    "frame": "emote_dots1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vector_style1",
+                    "frame": "emote_dots2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vector_style1",
+                    "frame": "emote_dots3.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 4,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "msg_sleep",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "vector_style1",
+                    "frame": "emote_sleep.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vector_style1",
+                    "frame": "emote_sleeps.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 1,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "msg_what",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "vector_style1",
+                    "frame": "emote_exclamation.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 1,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "msg_anger",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "vector_style1",
+                    "frame": "emote_anger.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 1,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

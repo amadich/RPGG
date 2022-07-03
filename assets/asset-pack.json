@@ -1,0 +1,43 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "src/components/camerame.js",
+                "type": "script",
+                "key": "camerame"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            },
+            {
+                "url": "assets/atlas/tiles/map/map.json",
+                "type": "tilemapTiledJSON",
+                "key": "map"
+            },
+            {
+                "url": "assets/atlas/objets/medievalEnvironment_01.png",
+                "type": "image",
+                "key": "medievalEnvironment_01"
+            },
+            {
+                "url": "assets/atlas/objets/medievalEnvironment_03.png",
+                "type": "image",
+                "key": "medievalEnvironment_03"
+            },
+            {
+                "url": "assets/atlas/tiles/img/RTS_medieval@2.png",
+                "type": "image",
+                "key": "RTS_medieval@2"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

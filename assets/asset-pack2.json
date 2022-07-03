@@ -1,0 +1,114 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/sprites/animations.json",
+                "type": "animation",
+                "key": "animations"
+            },
+            {
+                "url": "assets/sprites/goblen/goblen.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "goblen_1"
+            },
+            {
+                "atlasURL": "assets/sprites/monster2/goblrn.json",
+                "textureURL": "assets/sprites/monster2/goblrn.png",
+                "type": "atlas",
+                "key": "goblrn"
+            },
+            {
+                "url": "assets/atlas/items/_Weapon/Gun01.png",
+                "type": "image",
+                "key": "Gun01"
+            },
+            {
+                "url": "src/components/movement.js",
+                "type": "script",
+                "key": "movement"
+            },
+            {
+                "atlasURL": "assets/sprites/player/player.json",
+                "textureURL": "assets/sprites/player/player.png",
+                "type": "atlas",
+                "key": "player"
+            },
+            {
+                "url": "src/components/player_anims.js",
+                "type": "script",
+                "key": "player_anims"
+            },
+            {
+                "url": "assets/sprites/monster1/standing/standing-1.png",
+                "type": "image",
+                "key": "standing-1"
+            },
+            {
+                "url": "assets/sprites/monster1/standing/standing-2.png",
+                "type": "image",
+                "key": "standing-2"
+            },
+            {
+                "url": "assets/sprites/monster1/standing/standing-3.png",
+                "type": "image",
+                "key": "standing-3"
+            },
+            {
+                "url": "assets/sprites/monster1/standing/standing-4.png",
+                "type": "image",
+                "key": "standing-4"
+            },
+            {
+                "url": "assets/sprites/monster1/standing/standing-5.png",
+                "type": "image",
+                "key": "standing-5"
+            },
+            {
+                "url": "assets/sprites/monster1/standing/standing-6.png",
+                "type": "image",
+                "key": "standing-6"
+            },
+            {
+                "url": "assets/atlas/items/_Weapon/Sword01.png",
+                "type": "image",
+                "key": "Sword01"
+            },
+            {
+                "url": "assets/atlas/ui/ui_block.png",
+                "type": "image",
+                "key": "ui_block"
+            },
+            {
+                "atlasURL": "assets/sprites/bubble_chat/vector_style1.xml",
+                "textureURL": "assets/sprites/bubble_chat/vector_style1.png",
+                "type": "atlasXML",
+                "key": "vector_style1"
+            },
+            {
+                "url": "assets/sprites/monster1/walking/walking-1.png",
+                "type": "image",
+                "key": "walking-1"
+            },
+            {
+                "url": "assets/sprites/monster1/walking/walking-2.png",
+                "type": "image",
+                "key": "walking-2"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

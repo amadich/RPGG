@@ -1,0 +1,859 @@
+{
+	"textures": [
+		{
+			"image": "goblen",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2254,
+				"h": 2759
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "2D_GOBLIN__Hurt_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 81,
+						"w": 464,
+						"h": 385
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 464,
+						"h": 385
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Hurt_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 80,
+						"w": 461,
+						"h": 386
+					},
+					"frame": {
+						"x": 0,
+						"y": 385,
+						"w": 461,
+						"h": 386
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Hurt_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 78,
+						"w": 457,
+						"h": 388
+					},
+					"frame": {
+						"x": 464,
+						"y": 0,
+						"w": 457,
+						"h": 388
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Hurt_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 78,
+						"w": 457,
+						"h": 388
+					},
+					"frame": {
+						"x": 0,
+						"y": 771,
+						"w": 457,
+						"h": 388
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Hurt_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 77,
+						"w": 452,
+						"h": 389
+					},
+					"frame": {
+						"x": 461,
+						"y": 388,
+						"w": 452,
+						"h": 389
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Idle_Blinking_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 76,
+						"w": 450,
+						"h": 390
+					},
+					"frame": {
+						"x": 921,
+						"y": 0,
+						"w": 450,
+						"h": 390
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Die_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 65,
+						"w": 343,
+						"h": 450
+					},
+					"frame": {
+						"x": 913,
+						"y": 390,
+						"w": 343,
+						"h": 450
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Idle_Blinking_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 76,
+						"w": 448,
+						"h": 390
+					},
+					"frame": {
+						"x": 0,
+						"y": 1159,
+						"w": 448,
+						"h": 390
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Idle_Blinking_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 76,
+						"w": 448,
+						"h": 390
+					},
+					"frame": {
+						"x": 448,
+						"y": 1159,
+						"w": 448,
+						"h": 390
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Attack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 76,
+						"w": 447,
+						"h": 390
+					},
+					"frame": {
+						"x": 896,
+						"y": 840,
+						"w": 447,
+						"h": 390
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Die_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 76,
+						"w": 447,
+						"h": 390
+					},
+					"frame": {
+						"x": 1371,
+						"y": 0,
+						"w": 447,
+						"h": 390
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Idle_Blinking_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 75,
+						"w": 445,
+						"h": 391
+					},
+					"frame": {
+						"x": 1343,
+						"y": 390,
+						"w": 445,
+						"h": 391
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Run_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 75,
+						"w": 442,
+						"h": 392
+					},
+					"frame": {
+						"x": 1343,
+						"y": 781,
+						"w": 442,
+						"h": 392
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Attack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 73,
+						"w": 442,
+						"h": 393
+					},
+					"frame": {
+						"x": 0,
+						"y": 1549,
+						"w": 442,
+						"h": 393
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Idle_Blinking_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 75,
+						"w": 442,
+						"h": 391
+					},
+					"frame": {
+						"x": 442,
+						"y": 1549,
+						"w": 442,
+						"h": 391
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Run_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 75,
+						"w": 439,
+						"h": 393
+					},
+					"frame": {
+						"x": 884,
+						"y": 1549,
+						"w": 439,
+						"h": 393
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Run_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 73,
+						"w": 438,
+						"h": 394
+					},
+					"frame": {
+						"x": 1343,
+						"y": 1173,
+						"w": 438,
+						"h": 394
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Run_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 75,
+						"w": 436,
+						"h": 393
+					},
+					"frame": {
+						"x": 1818,
+						"y": 0,
+						"w": 436,
+						"h": 393
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Run_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 73,
+						"w": 436,
+						"h": 395
+					},
+					"frame": {
+						"x": 1788,
+						"y": 393,
+						"w": 436,
+						"h": 395
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Run_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 71,
+						"w": 435,
+						"h": 397
+					},
+					"frame": {
+						"x": 1785,
+						"y": 788,
+						"w": 435,
+						"h": 397
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Run_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 75,
+						"w": 435,
+						"h": 393
+					},
+					"frame": {
+						"x": 1781,
+						"y": 1185,
+						"w": 435,
+						"h": 393
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Run_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 75,
+						"w": 433,
+						"h": 393
+					},
+					"frame": {
+						"x": 0,
+						"y": 1942,
+						"w": 433,
+						"h": 393
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Die_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 69,
+						"w": 430,
+						"h": 397
+					},
+					"frame": {
+						"x": 1323,
+						"y": 1567,
+						"w": 430,
+						"h": 397
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Attack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 68,
+						"w": 426,
+						"h": 398
+					},
+					"frame": {
+						"x": 1753,
+						"y": 1578,
+						"w": 426,
+						"h": 398
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Die_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 63,
+						"w": 365,
+						"h": 424
+					},
+					"frame": {
+						"x": 0,
+						"y": 2335,
+						"w": 365,
+						"h": 424
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Attack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 75,
+						"w": 416,
+						"h": 391
+					},
+					"frame": {
+						"x": 442,
+						"y": 1940,
+						"w": 416,
+						"h": 391
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Attack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 71,
+						"w": 412,
+						"h": 393
+					},
+					"frame": {
+						"x": 365,
+						"y": 2335,
+						"w": 412,
+						"h": 393
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Die_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 123,
+						"w": 348,
+						"h": 408
+					},
+					"frame": {
+						"x": 777,
+						"y": 2331,
+						"w": 348,
+						"h": 408
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Attack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 65,
+						"w": 402,
+						"h": 401
+					},
+					"frame": {
+						"x": 1125,
+						"y": 1964,
+						"w": 402,
+						"h": 401
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Die_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 64,
+						"w": 398,
+						"h": 401
+					},
+					"frame": {
+						"x": 1527,
+						"y": 1976,
+						"w": 398,
+						"h": 401
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Die_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 174,
+						"w": 371,
+						"h": 354
+					},
+					"frame": {
+						"x": 457,
+						"y": 777,
+						"w": 371,
+						"h": 354
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Attack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 76,
+						"w": 447,
+						"h": 390
+					},
+					"frame": {
+						"x": 896,
+						"y": 840,
+						"w": 447,
+						"h": 390
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Attack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 76,
+						"w": 447,
+						"h": 390
+					},
+					"frame": {
+						"x": 896,
+						"y": 840,
+						"w": 447,
+						"h": 390
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Idle_Blinking_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 76,
+						"w": 447,
+						"h": 390
+					},
+					"frame": {
+						"x": 896,
+						"y": 840,
+						"w": 447,
+						"h": 390
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Idle_Blinking_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 76,
+						"w": 447,
+						"h": 390
+					},
+					"frame": {
+						"x": 896,
+						"y": 840,
+						"w": 447,
+						"h": 390
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Hurt_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 76,
+						"w": 447,
+						"h": 390
+					},
+					"frame": {
+						"x": 1371,
+						"y": 0,
+						"w": 447,
+						"h": 390
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Hurt_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 76,
+						"w": 447,
+						"h": 390
+					},
+					"frame": {
+						"x": 1371,
+						"y": 0,
+						"w": 447,
+						"h": 390
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Hurt_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 76,
+						"w": 447,
+						"h": 390
+					},
+					"frame": {
+						"x": 1371,
+						"y": 0,
+						"w": 447,
+						"h": 390
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Die_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 174,
+						"w": 371,
+						"h": 354
+					},
+					"frame": {
+						"x": 457,
+						"y": 777,
+						"w": 371,
+						"h": 354
+					}
+				},
+				{
+					"filename": "2D_GOBLIN__Idle_Blinking_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 524,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 75,
+						"w": 445,
+						"h": 391
+					},
+					"frame": {
+						"x": 1343,
+						"y": 390,
+						"w": 445,
+						"h": 391
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

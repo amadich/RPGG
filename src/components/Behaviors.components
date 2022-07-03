@@ -1,0 +1,39 @@
+{
+    "components": [
+        {
+            "name": "PushOnClick",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Image",
+            "properties": []
+        },
+        {
+            "name": "PreloadText",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Text",
+            "properties": []
+        },
+        {
+            "name": "movement",
+            "baseClass": "",
+            "gameObjectType": "Phaser.GameObjects.chracter",
+            "properties": []
+        },
+        {
+            "name": "player_anims",
+            "baseClass": "",
+            "gameObjectType": "Phaser.GameObjects.anims_player",
+            "properties": []
+        },
+        {
+            "name": "camerame",
+            "baseClass": "",
+            "gameObjectType": "Phaser.GameObjects.mecamera",
+            "properties": []
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Object Script Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}
